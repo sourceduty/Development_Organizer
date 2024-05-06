@@ -1,4 +1,4 @@
-![Development Organizer](https://github.com/sourceduty/Development_Organizer/assets/123030236/eb39f6c4-68b3-4b79-8d1a-8f48993ab1bb)
+![Development Organizer](https://github.com/sourceduty/Development_Organizer/assets/123030236/a2a4afca-bd95-44e4-a0fc-874a60e9cd6a)
 
 [Development Organizer](https://chatgpt.com/g/g-pxOMOdDVa-development-organizer) is a specialized tool developed to assist in the management and organization of program development projects. It aids in structuring and streamlining the project development process by providing detailed time management solutions and organizing tasks effectively. This tool is particularly valuable for project managers and development teams who need to keep their projects on track while balancing multiple tasks and deadlines.
 
