@@ -10,8 +10,6 @@ Development Organizer can help in various ways. Firstly, it facilitates a detail
 [Programming Language Writer](https://github.com/sourceduty/Programming_Language_Writer)
 <br>
 [Python Simulator](https://chatgpt.com/g/g-NLUSBfccY-python-simulator)
-<br>
-[Programming Language Writer](https://chatgpt.com/g/g-sl0v3JhDZ-programming-language-writer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
